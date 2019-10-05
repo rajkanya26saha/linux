@@ -1,0 +1,10 @@
+
+/************************************************************/
+/*Author	: Rajkanya Saha		*/
+/*Date		: 04-oct-2019		*/
+/*Filename	: server.txt	*/
+/*Description	: text file for server application*/
+/************************************************************/
+
+
+To implement server application,allowing incoming connections from client to be received on the socket where each client connection is then accepted on the listening socket which creates new fd(file descriptor),with this fd server communicate with  that particular client. 

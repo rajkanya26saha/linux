@@ -1,0 +1,10 @@
+
+/************************************************************/
+/*Author	: Rajkanya Saha		*/
+/*Date		: 04-oct-2019		*/
+/*Filename	: client.txt	*/
+/*Description	: text file for client application*/
+/************************************************************/
+
+
+To implement client application,in order to communicate with server, client tries to connect with server by specifying the server address,if communication is successful client gets back acknowlegment from server. 
