@@ -13,7 +13,7 @@
 
 
 /*main function definition */
-int main(int argc,char argv[])
+int main(int argc,char *argv[])
 {
 struct sockaddr_un svr_addr,cln_addr;
 int sfd;
