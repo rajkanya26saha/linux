@@ -1,0 +1,10 @@
+
+/************************************************************/
+/*Author	: Rajkanya Saha		*/
+/*Date		: 12-oct-2019		*/
+/*Filename	: client.txt	*/
+/*Description	: text file for client application*/
+/************************************************************/
+
+
+To implement client application for internet domain socket to transfer file data to  server,and finally getting back file data as acknowlegment from server. 
