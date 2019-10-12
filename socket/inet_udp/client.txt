@@ -1,0 +1,10 @@
+
+/************************************************************/
+/*Author	: Rajkanya Saha		*/
+/*Date		: 12-oct-2019		*/
+/*Filename	: client.txt	*/
+/*Description	: text file for client application*/
+/************************************************************/
+
+
+To implement client private chatting application for internet domain socket,in order to communicate with server,and finally getting back acknowlegment from server. 

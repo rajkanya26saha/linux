@@ -1,0 +1,11 @@
+
+/************************************************************/
+/*Author	: Rajkanya Saha		*/
+/*Date		: 12-oct-2019		*/
+/*Filename	: server.txt	*/
+/*Description	: text file for server application*/
+/************************************************************/
+
+
+To implement server private chatting application for internet domain socket,allowing client to communicate with it,and finally responding back to the client. 
+
